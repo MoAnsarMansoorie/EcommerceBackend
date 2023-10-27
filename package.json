@@ -1,0 +1,26 @@
+{
+  "name": "ecommercebackend",
+  "version": "1.0.0",
+  "description": "This is ecommerce backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoAnsarMansoorie/EcommerceBackend.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Mo Ansar Mansoorie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoAnsarMansoorie/EcommerceBackend/issues"
+  },
+  "homepage": "https://github.com/MoAnsarMansoorie/EcommerceBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
